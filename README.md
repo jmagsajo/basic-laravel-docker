@@ -1,8 +1,8 @@
 # basic-laravel-docker
 
-Command to run the application
+##Command to run the application
 
-docker-compose build && docker-compose up -d
+  -docker-compose build && docker-compose up -d
 
 if you encounter an error "invalid permission to open file in storage/framework" folder
 

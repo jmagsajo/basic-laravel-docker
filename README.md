@@ -21,3 +21,6 @@ docker exec nginx-test chmod -R 777 /var/www/html/storage/framework
 <pre>
 sudo docker exec nginx-test adduser -D -H -u 1000 -s /bin/bash -G www-data www-data
 </pre>
+
+note:
+the application is still not perfect, the above fix is temporary

@@ -4,6 +4,12 @@
 <pre>
 docker-compose build && docker-compose up -d
 </pre>
+
+<b>Go to src folder and run</b>
+<pre>
+composer install
+</pre>
+
 <b>if you encounter an error "invalid permission to open file in storage/framework" folder</b>
 
 <b>run the command</b>
